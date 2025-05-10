@@ -24,14 +24,6 @@ Happiness blooms when the code’s elite 🌱
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
-
-![Suryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryanshBakliwal&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanshBakliwal&layout=compact&theme=github_dark)
-
----
-
 ## 🔗 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-bakliwal-193303211/)
