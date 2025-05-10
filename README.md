@@ -1,9 +1,18 @@
 # 👋 Hi there, I'm Suryansh Bakliwal!
 
+
+<p align="center">
+ 
 I seek no peace until the code runs right 💻
 A quiet journey, but pure joy in sight ☕
 With each bug fixed, and each task complete 🛠️
 Happiness blooms when the code’s elite 🌱
+
+</p>
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SuryanshBakliwal&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
