@@ -13,7 +13,6 @@ Happiness blooms when the code’s elite 🌱
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SuryanshBakliwal&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ---
 
 ## 🚀 Languages and Tools I Work With:
